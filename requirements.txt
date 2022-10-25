@@ -11,4 +11,3 @@ Flask-Migrate
 Flask-Script
 Flask-SQLAlchemy
 Flask-WTF
-Flask-User
