@@ -10,8 +10,6 @@ Flask
 eventlet         
 Flask            
 Flask-Session    
-gevent           
-gevent-websocket 
 Werkzeug         
 
 
@@ -22,12 +20,7 @@ Werkzeug
 # Flask Framework
 Flask
 
-# Flask Packages
-Flask-Login
-Flask-Migrate
-Flask-Script
-Flask-SQLAlchemy
-Flask-WTF
+
 
 # Automated tests
 pytest
