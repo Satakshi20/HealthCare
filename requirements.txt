@@ -1,27 +1,9 @@
-streamlit
-numpy
-scikit-learn
-opencv-python-headless
-Pillow
-tensorflow
-Flask
 
 
-eventlet         
-Flask            
-Flask-Session    
-Werkzeug         
-
-
-
-# This file is used by pip to install required python packages
-# Usage: pip install -r requirements.txt
-
-# Flask Framework
-Flask
-
-
-
-# Automated tests
-pytest
-pytest-cov
+Werkzeug
+joblib
+flask_bootstrap
+flask_sqlalchemy
+flask_wtf
+WTForms
+gunicorn
