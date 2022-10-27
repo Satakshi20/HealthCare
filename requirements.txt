@@ -1,9 +1,7 @@
-
-
-Werkzeug
+Flask
 joblib
-flask_bootstrap
-flask_sqlalchemy
-flask_wtf
-WTForms
-gunicorn
+tensorflow
+joblib
+scikit_learn
+
+
