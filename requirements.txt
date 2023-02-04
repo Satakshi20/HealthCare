@@ -1,4 +1,4 @@
 Flask
 tensorflow
 scikit_learn
-opencv-python
+opencv-python-headless
