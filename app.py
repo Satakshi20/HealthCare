@@ -1,4 +1,4 @@
-pip install opencv-contrib-python
+pip install opencv-python
 import cv2
 import pickle
 from tensorflow.keras.models import model_from_json
