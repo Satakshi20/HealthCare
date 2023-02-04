@@ -1,4 +1,7 @@
 opencv-python-headless
 Flask
-tensorflow
 scikit_learn
+streamlit
+opencv-python-headless
+tensorflow-cpu
+gunicorn
